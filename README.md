@@ -100,12 +100,6 @@ Ensures clean setup and teardown
 
 ---
 
-## 📸 Screenshot Support
-
-Screenshots are captured automatically for failed test scenarios to help with debugging and analysis.
-
----
-
 ## 💡 What I Learned
 
 ✔ Designing scalable automation frameworks
